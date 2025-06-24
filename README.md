@@ -71,6 +71,16 @@ It includes dynamic slicers for:
 4. Analyze and explore insights by brand, city, payment, and time period.
 ---
 
+
+
+
+
+
+
+
+
+
+
 ## 🔖 Tags
 
 `Power BI` • `Sales Dashboard` • `Data Visualization` • `Business Intelligence` • `Mobile Sales` • `KPI` • `India Sales` • `Analytics Project`
